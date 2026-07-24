@@ -112,16 +112,15 @@ Criação da estrutura inicial do projeto e organização das pastas.
 
 <img width="1097" height="587" alt="image" src="https://github.com/user-attachments/assets/809f9350-ac0f-4bc5-8e2d-78685310177a" />
 
-
 ---
 
 ## 2. Header
 
 ### Descrição
 
-Implementação do Header contendo a navegação principal da aplicação.
+Implementação da estrutura base do cabeçalho utilizando marcação HTML5 semântica (`<header>`, `<nav>`, `<ul>`). A navegação principal foi construída com links âncora para direcionar o usuário de forma fluida entre as seções da página.
 
-> *(Adicionar print)*
+<img width="1761" height="746" alt="image" src="https://github.com/user-attachments/assets/b59752cf-bea3-4f54-ac97-188122c25337" />
 
 ---
 
@@ -129,9 +128,9 @@ Implementação do Header contendo a navegação principal da aplicação.
 
 ### Descrição
 
-Implementação da seção inicial contendo apresentação, imagem e botões de ação.
+Estruturação da seção principal de apresentação do portfólio. O código foi desenvolvido com foco em semântica HTML5, utilizando a hierarquia correta de títulos (`<h1>` e `<h2>`) para o nome e cargo, além da tag `<p>` para a biografia. A imagem de perfil foi corretamente roteada a partir do diretório de estáticos (`assets/images/`), e foram implementados links âncora (Call-to-Action) apontando para as seções futuras do site.
 
-> *(Adicionar print)*
+<img width="1548" height="934" alt="image" src="https://github.com/user-attachments/assets/00473d19-5f38-407d-a8f9-7cfbe4245cae" />
 
 ---
 
